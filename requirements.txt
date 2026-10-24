@@ -1,0 +1,14 @@
+# Versions used to test the pipeline (Python 3.13)
+mne==1.13.2
+autoreject==0.5.1
+mne-icalabel==0.10.0
+onnxruntime==1.31.0
+python-picard==0.8.2
+scikit-fda==0.10.1
+numpy==2.5.4
+scipy==1.18.1
+pandas==3.1.0
+scikit-learn==1.9.1
+matplotlib==3.11.2
+joblib==1.6.0
+tqdm==4.70.1
